@@ -3,7 +3,7 @@
 title: REHA - Bereich Orthopädie
 #category: Development
 #category_slug: development
-image: images/works/orthopädie_670.jpg
+image: images/works/Orthopädie_670.jpg
 short_description:   Es besteht aus unterschiedlichen Schwerpunkten, wie Mobilisations-, Kraft- und Dehnübungen, um die Körperwahrnehmung zu schulen.
 
 # full details
