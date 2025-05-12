@@ -4,7 +4,8 @@ baseURL = "https://bslthemes.com/" #YOUR SITE URL
 languageCode = "de-de"
 theme = "luique"
 resourceDir = "resources"
-paginate = 6
+[pagination]
+pagerSize = 6
 summaryLength = 20
 DefaultContentLanguage = "de"
 
