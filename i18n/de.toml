@@ -5,22 +5,22 @@ other = "Home"
 other = "Blog"
 
 [blogSubtitle]
-other = "All the most current news and events of my life"
+other = "Das sind alles tolle Neuigkeiten"
 
 [all]
-other = "All"
+other = "Alle"
 
 [readMore]
-other = "Read more"
+other = "Mehr erfahren"
 
 [viewProject]
-other = "View Project"
+other = "Details"
 
 [by]
-other = "By"
+other = "Von"
 
 [yourName]
-other = "Full Name"
+other = "Name"
 
 [enterYourName]
 other = "Enter your full name"
@@ -60,28 +60,28 @@ other = "Share"
 other = "Share on"
 
 [tags]
-other = "Tags"
+other = "Schlagwörter"
 
 [comments]
-other = "Comments"
+other = "Kommentare"
 
 [next]
-other = "Next"
+other = "Nächster"
 
 [prev]
-other = "Previous"
+other = "Vorheriger"
 
 [nextPost]
-other = "Next Post"
+other = "Nächster Post"
 
 [prevPost]
-other = "Previous Post"
+other = "Vorheriger Post"
 
 [nextProject]
-other = "Next Project"
+other = "Nächste Abteilung"
 
 [prevProject]
-other = "Previous Project"
+other = "Vorherige Abteilung"
 
 [sendMessage]
 other = "Send Message"
@@ -90,13 +90,13 @@ other = "Send Message"
 other = "Thanks, your message is sent successfully."
 
 [developedBy]
-other = "Developed By"
+other = "Entwickelt von"
 
 [category]
-other = "Category"
+other = "Kategorie"
 
 [categories]
-other = "Categories"
+other = "Kategorien"
 
 [errorNum]
 other = "404"
@@ -111,13 +111,13 @@ other = "The page you’re looking for doesn’t exist or has been moved."
 other = "new"
 
 [search]
-other = "Search ..." 
+other = "Suchen ..." 
 
 [recentPosts]
-other = "Recent Posts"
+other = "Jüngster Posts"
 
 [latestPosts]
-other = "Latest Posts"
+other = "Letzte Posts"
 
 [followMe]
 other = "Follow Me"

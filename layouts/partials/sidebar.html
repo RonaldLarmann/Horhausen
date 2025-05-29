@@ -20,7 +20,7 @@
   
         {{ if $sidebar.categories }}
         <section class="widget widget_categories">
-          <h2 class="widget-title">Categories</h2>
+          <h2 class="widget-title">Kategorien</h2>
           <ul>
             {{ range .Site.Taxonomies.categories }}
             <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> ({{ .Count }})</li>

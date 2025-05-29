@@ -1,13 +1,18 @@
 # General Settings
 title = "TuS Horhausen"
 baseURL = "" #YOUR SITE URL
-languageCode = "de-de"
 theme = "luique"
 resourceDir = "resources"
 [pagination]
 pagerSize = 6
 summaryLength = 20
-DefaultContentLanguage = "de"
+
+[languages]
+  [languages.de]
+    languageCode = 'de-DE'
+    languageDirection = 'ltr'
+    languageName = 'Deutsch'
+    weight = 1
 
 # Menu Settings
 [menu]
