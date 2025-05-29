@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TuS Horhausen</title>
-    <link>https://bslthemes.com/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on TuS Horhausen</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 05 Aug 2020 12:49:27 +0600</lastBuildDate>
-    <atom:link href="https://bslthemes.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>BLACKROLL®</title>
-      <link>https://bslthemes.com/tags/blackroll/</link>
+      <link>//localhost:1313/tags/blackroll/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/tags/blackroll/</guid>
+      <guid>//localhost:1313/tags/blackroll/</guid>
       <description></description>
     </item>
     <item>
       <title>Flammersfeld</title>
-      <link>https://bslthemes.com/tags/flammersfeld/</link>
+      <link>//localhost:1313/tags/flammersfeld/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/tags/flammersfeld/</guid>
+      <guid>//localhost:1313/tags/flammersfeld/</guid>
       <description></description>
     </item>
     <item>
       <title>Grundschule</title>
-      <link>https://bslthemes.com/tags/grundschule/</link>
+      <link>//localhost:1313/tags/grundschule/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/tags/grundschule/</guid>
+      <guid>//localhost:1313/tags/grundschule/</guid>
       <description></description>
     </item>
     <item>
       <title>Kurs</title>
-      <link>https://bslthemes.com/tags/kurs/</link>
+      <link>//localhost:1313/tags/kurs/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/tags/kurs/</guid>
+      <guid>//localhost:1313/tags/kurs/</guid>
       <description></description>
     </item>
     <item>
       <title>Laufwettkampf</title>
-      <link>https://bslthemes.com/tags/laufwettkampf/</link>
+      <link>//localhost:1313/tags/laufwettkampf/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/tags/laufwettkampf/</guid>
+      <guid>//localhost:1313/tags/laufwettkampf/</guid>
       <description></description>
     </item>
     <item>
       <title>Saisonauftakt</title>
-      <link>https://bslthemes.com/tags/saisonauftakt/</link>
+      <link>//localhost:1313/tags/saisonauftakt/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/tags/saisonauftakt/</guid>
+      <guid>//localhost:1313/tags/saisonauftakt/</guid>
       <description></description>
     </item>
     <item>
       <title>Tischtennis</title>
-      <link>https://bslthemes.com/tags/tischtennis/</link>
+      <link>//localhost:1313/tags/tischtennis/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/tags/tischtennis/</guid>
+      <guid>//localhost:1313/tags/tischtennis/</guid>
       <description></description>
     </item>
     <item>
       <title>Urmitz</title>
-      <link>https://bslthemes.com/tags/urmitz/</link>
+      <link>//localhost:1313/tags/urmitz/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/tags/urmitz/</guid>
+      <guid>//localhost:1313/tags/urmitz/</guid>
       <description></description>
     </item>
     <item>
       <title>Workouts</title>
-      <link>https://bslthemes.com/tags/workouts/</link>
+      <link>//localhost:1313/tags/workouts/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/tags/workouts/</guid>
+      <guid>//localhost:1313/tags/workouts/</guid>
       <description></description>
     </item>
   </channel>

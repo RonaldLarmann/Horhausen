@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kurs on TuS Horhausen</title>
-    <link>https://bslthemes.com/tags/kurs/</link>
+    <link>//localhost:1313/tags/kurs/</link>
     <description>Recent content in Kurs on TuS Horhausen</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 05 Aug 2020 12:49:27 +0600</lastBuildDate>
-    <atom:link href="https://bslthemes.com/tags/kurs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/kurs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neues Kursangebot nach Karneval</title>
-      <link>https://bslthemes.com/blog/neues_kursangebot_nach_karneval/</link>
+      <link>//localhost:1313/blog/neues_kursangebot_nach_karneval/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/blog/neues_kursangebot_nach_karneval/</guid>
+      <guid>//localhost:1313/blog/neues_kursangebot_nach_karneval/</guid>
       <description>&lt;p&gt;Blackroll Moves®&lt;/p&gt;&#xA;&lt;p&gt;BLACKROLL® MOVES ist das erste ganzheitliche BLACKROLL® Bewegungsprogramm.&lt;/p&gt;&#xA;&lt;p&gt;Durch die Kombination von Faszientraining mit klassischen Kräftigungsübungen erhalten Sie ein stabiles Fundament für die notwendige Mobilität in Alltag und Training. Eine intensive Cardioeinheit mit funktionalen Ganzkörperübungen rundet das ganzheitliche Training ab und sorgt dafür, dass Sie sich auch ordentlich auspowern können.&lt;/p&gt;&#xA;&lt;p&gt;Sie verbessern die Beweglichkeit und Gelenkflexibilität&#xA;Sie kräftigen Rumpf- und Tiefenmuskulatur mit funktionalen Ganzkörperübungen&#xA;Sie verbessern die Herz-Kreislauf-Funktion mit intensivem HIIT-Training (Hoch Intensives Intervall Training)&#xA;Sie reduzieren Ihren Stress- und Schmerzlevel durch Selbstmassage mit der BLACKROLL.&#xA;Anforderung: gute Stützfähigkeit auf dem Boden/der Matte.&lt;/p&gt;</description>
     </item>
   </channel>

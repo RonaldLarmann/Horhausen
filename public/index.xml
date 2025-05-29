@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on TuS Horhausen</title>
-    <link>https://bslthemes.com/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Home on TuS Horhausen</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 02 Jul 2022 17:02:58 +0300</lastBuildDate>
-    <atom:link href="https://bslthemes.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seite</title>
-      <link>https://bslthemes.com/seite/</link>
+      <link>//localhost:1313/seite/</link>
       <pubDate>Sat, 02 Jul 2022 17:02:58 +0300</pubDate>
-      <guid>https://bslthemes.com/seite/</guid>
+      <guid>//localhost:1313/seite/</guid>
       <description>&lt;p&gt;Hallo&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wochenüberblick</title>
-      <link>https://bslthemes.com/wochenueberblick/</link>
+      <link>//localhost:1313/wochenueberblick/</link>
       <pubDate>Sat, 02 Jul 2022 17:02:58 +0300</pubDate>
-      <guid>https://bslthemes.com/wochenueberblick/</guid>
+      <guid>//localhost:1313/wochenueberblick/</guid>
       <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Zeit&lt;/th&gt;&#xA;          &lt;th&gt;Montag&lt;/th&gt;&#xA;          &lt;th&gt;Dienstag&lt;/th&gt;&#xA;          &lt;th&gt;Mittwoch&lt;/th&gt;&#xA;          &lt;th&gt;Donnerstag&lt;/th&gt;&#xA;          &lt;th&gt;Freitag&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;15:00&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;● ab 15:30 Uhr Eltern-Kind-Turnen&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;16:00&lt;/td&gt;&#xA;          &lt;td&gt;Reha-Sport (Hockergruppe)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;● Kinderturnen (4-6 Jahre)&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;● ab 16:30 Uhr Leichtathletik Kinder&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;17:00&lt;/td&gt;&#xA;          &lt;td&gt;● Eltern-Kind-Turnen&lt;/br&gt; ● Reha-Sport II&lt;/td&gt;&#xA;          &lt;td&gt;Cell 9&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;18:00&lt;/td&gt;&#xA;          &lt;td&gt;● Kursangebot (BlackRoll, Hula, o.ä.)&lt;/br&gt;● Reha-Sport III&lt;/br&gt;● Tischtennis&lt;/br&gt;● Walking&lt;/br&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Cell  Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;19:00&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;● Body-Workout&lt;/br&gt; ● Outdoor Fit Camp (Sommerhalbjahr als Kursangebot)&lt;/br&gt; ● ab 19.30 Uhr Taekwondo Senioren&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;20:00&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;21:00&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;          &lt;td&gt;Cell&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
     <item>
       <title>Abteilung Tischtennis – Spaß und neue Erfahrungen bei den Tischtennis-Projekttagen in der Grundschule Flammersfeld</title>
-      <link>https://bslthemes.com/blog/tischtennis-projekttage/</link>
+      <link>//localhost:1313/blog/tischtennis-projekttage/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/blog/tischtennis-projekttage/</guid>
+      <guid>//localhost:1313/blog/tischtennis-projekttage/</guid>
       <description>&lt;p&gt;Anfang März verwandelte sich die Turnhalle der Raiffeisen Grundschule Flammersfeld in eine Tischtennis-Arena. Zwei Trainer der Tischtennis-Abteilung des TuS Horhausen 04, Linus George und Christof Müller, besuchten die dritten und vierten Klassen, um den Kindern einen spannenden Einblick in den schnellsten Rückschlagsport der Welt zu geben.&lt;/p&gt;&#xA;&lt;p&gt;Die Schülerinnen und Schüler lernten mit großer Begeisterung an verschiedenen Stationen den Umgang mit Schläger und Ball. Bereits nach kurzer Zeit meisterten sie erste Herausforderungen und wagten sich an anspruchsvollere Parcours und Übungen. Die Trainer vermittelten mit viel Engagement und Geduld technische Grundlagen und sorgten dafür, dass alle Kinder mit Spaß und Ehrgeiz bei der Sache waren. Der erste Projekttag fand seinen Höhepunkt in verschiedenen Spielformen, darunter das beliebte Rundlauf-Spiel, das für viel Freude und Teamgeist sorgte.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Neues Kursangebot nach Karneval</title>
-      <link>https://bslthemes.com/blog/neues_kursangebot_nach_karneval/</link>
+      <link>//localhost:1313/blog/neues_kursangebot_nach_karneval/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/blog/neues_kursangebot_nach_karneval/</guid>
+      <guid>//localhost:1313/blog/neues_kursangebot_nach_karneval/</guid>
       <description>&lt;p&gt;Blackroll Moves®&lt;/p&gt;&#xA;&lt;p&gt;BLACKROLL® MOVES ist das erste ganzheitliche BLACKROLL® Bewegungsprogramm.&lt;/p&gt;&#xA;&lt;p&gt;Durch die Kombination von Faszientraining mit klassischen Kräftigungsübungen erhalten Sie ein stabiles Fundament für die notwendige Mobilität in Alltag und Training. Eine intensive Cardioeinheit mit funktionalen Ganzkörperübungen rundet das ganzheitliche Training ab und sorgt dafür, dass Sie sich auch ordentlich auspowern können.&lt;/p&gt;&#xA;&lt;p&gt;Sie verbessern die Beweglichkeit und Gelenkflexibilität&#xA;Sie kräftigen Rumpf- und Tiefenmuskulatur mit funktionalen Ganzkörperübungen&#xA;Sie verbessern die Herz-Kreislauf-Funktion mit intensivem HIIT-Training (Hoch Intensives Intervall Training)&#xA;Sie reduzieren Ihren Stress- und Schmerzlevel durch Selbstmassage mit der BLACKROLL.&#xA;Anforderung: gute Stützfähigkeit auf dem Boden/der Matte.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TuS Horhausen- Saisonauftakt in Urmitz</title>
-      <link>https://bslthemes.com/blog/saisonauftakt_in_urmitz/</link>
+      <link>//localhost:1313/blog/saisonauftakt_in_urmitz/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/blog/saisonauftakt_in_urmitz/</guid>
+      <guid>//localhost:1313/blog/saisonauftakt_in_urmitz/</guid>
       <description>&lt;p&gt;Auch dieses Jahr starteten die großen und kleinen Athleten des TuS Horhausen am 08.03.2025 in Urmitz in die Laufsaison. Bei schon fast sommerlichen Temperaturen starteten zunächst die Bambinis über 150m. Hier waren Nika Schneider, Kerstin und Simon Schug am Start. Für alle drei war es die erste Teilnahme an einem Laufwettkampf.&lt;/p&gt;&#xA;&lt;p&gt;Über 400 m starteten Lennart Thiesen (10. Platz in der AKM7), Carlo Frömgen (12. Platz/M7), Tom Reuschenbach (13. Platz/M7), Timo Hohn (5. Platz in der AKM9). In der AK W8 siegte Charlotte Muth über diese Distanz.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Badminton</title>
-      <link>https://bslthemes.com/portfolio/badminton/</link>
+      <link>//localhost:1313/portfolio/badminton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/badminton/</guid>
+      <guid>//localhost:1313/portfolio/badminton/</guid>
       <description></description>
     </item>
     <item>
       <title>Body-Workout</title>
-      <link>https://bslthemes.com/portfolio/body_workout/</link>
+      <link>//localhost:1313/portfolio/body_workout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/body_workout/</guid>
+      <guid>//localhost:1313/portfolio/body_workout/</guid>
       <description></description>
     </item>
     <item>
       <title>Eltern-Kind-Turnen</title>
-      <link>https://bslthemes.com/portfolio/eltern-kind-turnen/</link>
+      <link>//localhost:1313/portfolio/eltern-kind-turnen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/eltern-kind-turnen/</guid>
+      <guid>//localhost:1313/portfolio/eltern-kind-turnen/</guid>
       <description></description>
     </item>
     <item>
       <title>Fitmix</title>
-      <link>https://bslthemes.com/portfolio/fitmix/</link>
+      <link>//localhost:1313/portfolio/fitmix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/fitmix/</guid>
+      <guid>//localhost:1313/portfolio/fitmix/</guid>
       <description></description>
     </item>
     <item>
       <title>Kinderturnen</title>
-      <link>https://bslthemes.com/portfolio/kinderturnen/</link>
+      <link>//localhost:1313/portfolio/kinderturnen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/kinderturnen/</guid>
+      <guid>//localhost:1313/portfolio/kinderturnen/</guid>
       <description></description>
     </item>
     <item>
       <title>Kurse</title>
-      <link>https://bslthemes.com/portfolio/kurse/</link>
+      <link>//localhost:1313/portfolio/kurse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/kurse/</guid>
+      <guid>//localhost:1313/portfolio/kurse/</guid>
       <description></description>
     </item>
     <item>
       <title>Lauftreff</title>
-      <link>https://bslthemes.com/portfolio/lauftreff/</link>
+      <link>//localhost:1313/portfolio/lauftreff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/lauftreff/</guid>
+      <guid>//localhost:1313/portfolio/lauftreff/</guid>
       <description></description>
     </item>
     <item>
       <title>Leichtathletik</title>
-      <link>https://bslthemes.com/portfolio/leichtathletik/</link>
+      <link>//localhost:1313/portfolio/leichtathletik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/leichtathletik/</guid>
+      <guid>//localhost:1313/portfolio/leichtathletik/</guid>
       <description></description>
     </item>
     <item>
       <title>Mountain Biking</title>
-      <link>https://bslthemes.com/portfolio/mountain_biking/</link>
+      <link>//localhost:1313/portfolio/mountain_biking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/mountain_biking/</guid>
+      <guid>//localhost:1313/portfolio/mountain_biking/</guid>
       <description></description>
     </item>
     <item>
       <title>Nordic Walking</title>
-      <link>https://bslthemes.com/portfolio/nordic_walking/</link>
+      <link>//localhost:1313/portfolio/nordic_walking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/nordic_walking/</guid>
+      <guid>//localhost:1313/portfolio/nordic_walking/</guid>
       <description></description>
     </item>
     <item>
       <title>Pilates Kurssystem</title>
-      <link>https://bslthemes.com/portfolio/pilates_kurssystem/</link>
+      <link>//localhost:1313/portfolio/pilates_kurssystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/pilates_kurssystem/</guid>
+      <guid>//localhost:1313/portfolio/pilates_kurssystem/</guid>
       <description></description>
     </item>
     <item>
       <title>REHA - Bereich Herzsport</title>
-      <link>https://bslthemes.com/portfolio/reha-sport_bereich_herzsport/</link>
+      <link>//localhost:1313/portfolio/reha-sport_bereich_herzsport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/reha-sport_bereich_herzsport/</guid>
+      <guid>//localhost:1313/portfolio/reha-sport_bereich_herzsport/</guid>
       <description></description>
     </item>
     <item>
       <title>REHA - Bereich Orthopädie</title>
-      <link>https://bslthemes.com/portfolio/reha-sport_bereich_orthop%C3%A4die/</link>
+      <link>//localhost:1313/portfolio/reha-sport_bereich_orthop%C3%A4die/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/reha-sport_bereich_orthop%C3%A4die/</guid>
+      <guid>//localhost:1313/portfolio/reha-sport_bereich_orthop%C3%A4die/</guid>
       <description></description>
     </item>
     <item>
       <title>Sport für Senioren</title>
-      <link>https://bslthemes.com/portfolio/sport_f%C3%BCr_senioren/</link>
+      <link>//localhost:1313/portfolio/sport_f%C3%BCr_senioren/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/sport_f%C3%BCr_senioren/</guid>
+      <guid>//localhost:1313/portfolio/sport_f%C3%BCr_senioren/</guid>
       <description></description>
     </item>
     <item>
       <title>Taekwondo</title>
-      <link>https://bslthemes.com/portfolio/taekwondo/</link>
+      <link>//localhost:1313/portfolio/taekwondo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/taekwondo/</guid>
+      <guid>//localhost:1313/portfolio/taekwondo/</guid>
       <description></description>
     </item>
     <item>
       <title>Tischtennis</title>
-      <link>https://bslthemes.com/portfolio/tischtennis/</link>
+      <link>//localhost:1313/portfolio/tischtennis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/tischtennis/</guid>
+      <guid>//localhost:1313/portfolio/tischtennis/</guid>
       <description></description>
     </item>
   </channel>

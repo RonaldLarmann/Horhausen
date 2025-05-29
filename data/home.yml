@@ -73,9 +73,9 @@ portfolio:
   title: "Unsere Abteilungen"
   #subtitle: "my <b>Cases</b>"
   bg_title: "Abteilungen"
-  button:
-    link: "/works"
-    label: "View More"
+  button: 
+    link: ""
+    label: ""
 
 ### Skills [ skills ]
 skills:
@@ -261,10 +261,10 @@ pricing:
 blog:
   enable: 1
   title: "Neuigkeiten"
-  subtitle: "my <b>Articles and Advice</b>"
+  subtitle: ""
   bg_title: "Blog"
   button:
-    label: "View Blog"
+    label: "Zum Blog"
     link: "blog/"
 
 

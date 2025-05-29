@@ -2,121 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on TuS Horhausen</title>
-    <link>https://bslthemes.com/portfolio/</link>
+    <link>//localhost:1313/portfolio/</link>
     <description>Recent content in Projects on TuS Horhausen</description>
     <generator>Hugo</generator>
     <language>de-de</language>
-    <atom:link href="https://bslthemes.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Badminton</title>
-      <link>https://bslthemes.com/portfolio/badminton/</link>
+      <link>//localhost:1313/portfolio/badminton/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/badminton/</guid>
+      <guid>//localhost:1313/portfolio/badminton/</guid>
       <description></description>
     </item>
     <item>
       <title>Body-Workout</title>
-      <link>https://bslthemes.com/portfolio/body_workout/</link>
+      <link>//localhost:1313/portfolio/body_workout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/body_workout/</guid>
+      <guid>//localhost:1313/portfolio/body_workout/</guid>
       <description></description>
     </item>
     <item>
       <title>Eltern-Kind-Turnen</title>
-      <link>https://bslthemes.com/portfolio/eltern-kind-turnen/</link>
+      <link>//localhost:1313/portfolio/eltern-kind-turnen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/eltern-kind-turnen/</guid>
+      <guid>//localhost:1313/portfolio/eltern-kind-turnen/</guid>
       <description></description>
     </item>
     <item>
       <title>Fitmix</title>
-      <link>https://bslthemes.com/portfolio/fitmix/</link>
+      <link>//localhost:1313/portfolio/fitmix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/fitmix/</guid>
+      <guid>//localhost:1313/portfolio/fitmix/</guid>
       <description></description>
     </item>
     <item>
       <title>Kinderturnen</title>
-      <link>https://bslthemes.com/portfolio/kinderturnen/</link>
+      <link>//localhost:1313/portfolio/kinderturnen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/kinderturnen/</guid>
+      <guid>//localhost:1313/portfolio/kinderturnen/</guid>
       <description></description>
     </item>
     <item>
       <title>Kurse</title>
-      <link>https://bslthemes.com/portfolio/kurse/</link>
+      <link>//localhost:1313/portfolio/kurse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/kurse/</guid>
+      <guid>//localhost:1313/portfolio/kurse/</guid>
       <description></description>
     </item>
     <item>
       <title>Lauftreff</title>
-      <link>https://bslthemes.com/portfolio/lauftreff/</link>
+      <link>//localhost:1313/portfolio/lauftreff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/lauftreff/</guid>
+      <guid>//localhost:1313/portfolio/lauftreff/</guid>
       <description></description>
     </item>
     <item>
       <title>Leichtathletik</title>
-      <link>https://bslthemes.com/portfolio/leichtathletik/</link>
+      <link>//localhost:1313/portfolio/leichtathletik/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/leichtathletik/</guid>
+      <guid>//localhost:1313/portfolio/leichtathletik/</guid>
       <description></description>
     </item>
     <item>
       <title>Mountain Biking</title>
-      <link>https://bslthemes.com/portfolio/mountain_biking/</link>
+      <link>//localhost:1313/portfolio/mountain_biking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/mountain_biking/</guid>
+      <guid>//localhost:1313/portfolio/mountain_biking/</guid>
       <description></description>
     </item>
     <item>
       <title>Nordic Walking</title>
-      <link>https://bslthemes.com/portfolio/nordic_walking/</link>
+      <link>//localhost:1313/portfolio/nordic_walking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/nordic_walking/</guid>
+      <guid>//localhost:1313/portfolio/nordic_walking/</guid>
       <description></description>
     </item>
     <item>
       <title>Pilates Kurssystem</title>
-      <link>https://bslthemes.com/portfolio/pilates_kurssystem/</link>
+      <link>//localhost:1313/portfolio/pilates_kurssystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/pilates_kurssystem/</guid>
+      <guid>//localhost:1313/portfolio/pilates_kurssystem/</guid>
       <description></description>
     </item>
     <item>
       <title>REHA - Bereich Herzsport</title>
-      <link>https://bslthemes.com/portfolio/reha-sport_bereich_herzsport/</link>
+      <link>//localhost:1313/portfolio/reha-sport_bereich_herzsport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/reha-sport_bereich_herzsport/</guid>
+      <guid>//localhost:1313/portfolio/reha-sport_bereich_herzsport/</guid>
       <description></description>
     </item>
     <item>
       <title>REHA - Bereich Orthopädie</title>
-      <link>https://bslthemes.com/portfolio/reha-sport_bereich_orthop%C3%A4die/</link>
+      <link>//localhost:1313/portfolio/reha-sport_bereich_orthop%C3%A4die/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/reha-sport_bereich_orthop%C3%A4die/</guid>
+      <guid>//localhost:1313/portfolio/reha-sport_bereich_orthop%C3%A4die/</guid>
       <description></description>
     </item>
     <item>
       <title>Sport für Senioren</title>
-      <link>https://bslthemes.com/portfolio/sport_f%C3%BCr_senioren/</link>
+      <link>//localhost:1313/portfolio/sport_f%C3%BCr_senioren/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/sport_f%C3%BCr_senioren/</guid>
+      <guid>//localhost:1313/portfolio/sport_f%C3%BCr_senioren/</guid>
       <description></description>
     </item>
     <item>
       <title>Taekwondo</title>
-      <link>https://bslthemes.com/portfolio/taekwondo/</link>
+      <link>//localhost:1313/portfolio/taekwondo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/taekwondo/</guid>
+      <guid>//localhost:1313/portfolio/taekwondo/</guid>
       <description></description>
     </item>
     <item>
       <title>Tischtennis</title>
-      <link>https://bslthemes.com/portfolio/tischtennis/</link>
+      <link>//localhost:1313/portfolio/tischtennis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bslthemes.com/portfolio/tischtennis/</guid>
+      <guid>//localhost:1313/portfolio/tischtennis/</guid>
       <description></description>
     </item>
   </channel>

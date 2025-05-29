@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tischtennis on TuS Horhausen</title>
-    <link>https://bslthemes.com/tags/tischtennis/</link>
+    <link>//localhost:1313/tags/tischtennis/</link>
     <description>Recent content in Tischtennis on TuS Horhausen</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 05 Aug 2020 12:49:27 +0600</lastBuildDate>
-    <atom:link href="https://bslthemes.com/tags/tischtennis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/tischtennis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abteilung Tischtennis – Spaß und neue Erfahrungen bei den Tischtennis-Projekttagen in der Grundschule Flammersfeld</title>
-      <link>https://bslthemes.com/blog/tischtennis-projekttage/</link>
+      <link>//localhost:1313/blog/tischtennis-projekttage/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/blog/tischtennis-projekttage/</guid>
+      <guid>//localhost:1313/blog/tischtennis-projekttage/</guid>
       <description>&lt;p&gt;Anfang März verwandelte sich die Turnhalle der Raiffeisen Grundschule Flammersfeld in eine Tischtennis-Arena. Zwei Trainer der Tischtennis-Abteilung des TuS Horhausen 04, Linus George und Christof Müller, besuchten die dritten und vierten Klassen, um den Kindern einen spannenden Einblick in den schnellsten Rückschlagsport der Welt zu geben.&lt;/p&gt;&#xA;&lt;p&gt;Die Schülerinnen und Schüler lernten mit großer Begeisterung an verschiedenen Stationen den Umgang mit Schläger und Ball. Bereits nach kurzer Zeit meisterten sie erste Herausforderungen und wagten sich an anspruchsvollere Parcours und Übungen. Die Trainer vermittelten mit viel Engagement und Geduld technische Grundlagen und sorgten dafür, dass alle Kinder mit Spaß und Ehrgeiz bei der Sache waren. Der erste Projekttag fand seinen Höhepunkt in verschiedenen Spielformen, darunter das beliebte Rundlauf-Spiel, das für viel Freude und Teamgeist sorgte.&lt;/p&gt;</description>
     </item>
   </channel>

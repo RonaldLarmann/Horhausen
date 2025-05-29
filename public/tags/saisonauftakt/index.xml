@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saisonauftakt on TuS Horhausen</title>
-    <link>https://bslthemes.com/tags/saisonauftakt/</link>
+    <link>//localhost:1313/tags/saisonauftakt/</link>
     <description>Recent content in Saisonauftakt on TuS Horhausen</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 05 Aug 2020 12:49:27 +0600</lastBuildDate>
-    <atom:link href="https://bslthemes.com/tags/saisonauftakt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/saisonauftakt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TuS Horhausen- Saisonauftakt in Urmitz</title>
-      <link>https://bslthemes.com/blog/saisonauftakt_in_urmitz/</link>
+      <link>//localhost:1313/blog/saisonauftakt_in_urmitz/</link>
       <pubDate>Wed, 05 Aug 2020 12:49:27 +0600</pubDate>
-      <guid>https://bslthemes.com/blog/saisonauftakt_in_urmitz/</guid>
+      <guid>//localhost:1313/blog/saisonauftakt_in_urmitz/</guid>
       <description>&lt;p&gt;Auch dieses Jahr starteten die großen und kleinen Athleten des TuS Horhausen am 08.03.2025 in Urmitz in die Laufsaison. Bei schon fast sommerlichen Temperaturen starteten zunächst die Bambinis über 150m. Hier waren Nika Schneider, Kerstin und Simon Schug am Start. Für alle drei war es die erste Teilnahme an einem Laufwettkampf.&lt;/p&gt;&#xA;&lt;p&gt;Über 400 m starteten Lennart Thiesen (10. Platz in der AKM7), Carlo Frömgen (12. Platz/M7), Tom Reuschenbach (13. Platz/M7), Timo Hohn (5. Platz in der AKM9). In der AK W8 siegte Charlotte Muth über diese Distanz.&lt;/p&gt;</description>
     </item>
   </channel>
