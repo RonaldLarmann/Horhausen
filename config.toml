@@ -1,6 +1,6 @@
 # General Settings
 title = "TuS Horhausen"
-baseURL = "https://bslthemes.com/" #YOUR SITE URL
+baseURL = "" #YOUR SITE URL
 languageCode = "de-de"
 theme = "luique"
 resourceDir = "resources"
@@ -76,7 +76,7 @@ DefaultContentLanguage = "de"
 
 # Main Settings
 [params]
-#defaultSkin = "light"  # select default UI: "light" or "dark"
+defaultSkin = "light"  # select default UI: "light" or "dark"
 dateFormat = "2. Januar 2006"
 authorName = "TuS Horhausen"
 disqusComments = "" #YOUR DISQUS COMMENTS SHORTNAME
